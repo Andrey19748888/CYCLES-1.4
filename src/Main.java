@@ -1,8 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        for (int i = 0; i < 10; i ++) {
-            System.out.println(" первая задача" + i);
+        // 2 задача
+
+
+        for (int i = 10; i > 0; i--) {
+            System.out.println(" вторая задача " +  i);
         }
     }
 }

@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        for (int i = 0; i < 10; i ++) {
-            System.out.println(" первая задача" + i);
+        for (int i = 7; i < 99; i = i +7) {
+            System.out.println(i);
         }
     }
 }
